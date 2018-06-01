@@ -14,6 +14,6 @@
   * [화면 설계](untitled/undefined-1.md)
 * 데이터베이스
   * [데이터베이스 모델링](undefined-2/undefined.md)
-  * ERD\(Entity Relationship Diagram\)
+  * [ERD\(Entity Relationship Diagram\)](undefined-2/erd-entity-relationship-diagram.md)
 * [코딩](undefined-3.md)
 
