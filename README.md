@@ -16,13 +16,13 @@
   - CSS
   - javascript(ES6)
   
- - 백엔드
+- 백엔드
   - Spring Boot
  
- - 형상관리
+- 형상관리
   - git
   
- - 툴
+- 툴
   - Sketch
   - Invision
   - Visual Studio Code
