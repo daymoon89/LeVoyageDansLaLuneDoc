@@ -2,7 +2,7 @@
 
 * 운영체제
 
-  * MacOS High Sierra\(Version 10.13.4\)
+  * MacOS Mojave \(Version 10.14.1\)
 
 * 스택 & 도구
 
@@ -10,17 +10,18 @@
     * HTML
     * CSS\(SASS\)
     * javascript\(ES6\)
+    * VueJS
 
 
 
   * 백엔드
 
-    * JPA\(Hibernate\)
-    * MySQL
+    * Google Firebase
 
-  * 프레임워크
+  * 데이터베이스
+    * MongoDB
 
-    * Spring Boot
+
 
   * 형상관리
 
@@ -28,10 +29,7 @@
 
   * 툴
     * Sketch
-    * Invision
     * Visual Studio Code
-    * IntelliJ
-    * MySQL Workbench
-    * Trello
+    * [Trello](https://trello.com/b/dm7uahEI/portfolio-le-voyage-dans-la-lune달나라여행#)
     * ia Writer\(Markdown\)
 

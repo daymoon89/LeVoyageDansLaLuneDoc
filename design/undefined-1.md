@@ -1,6 +1,6 @@
 # 화면 설계
 
-![&#xBA54;&#xC778;\(Main\)](../.gitbook/assets/design-levoyagedanslalune.png)
+![&#xBA54;&#xC778;\(Main\)](../.gitbook/assets/design-levoyagedanslalune%20%281%29.png)
 
 ![&#xD301; &#xAC8C;&#xC2DC;&#xD310; &#xC0C1;&#xC138;&#xD654;&#xBA74;\(Tip Board Detail View\)](../.gitbook/assets/design-levoyagedanslalune-tip-board-detail.jpg)
 
@@ -12,7 +12,7 @@
 
 ![&#xB300;&#xC2DC;&#xBCF4;&#xB4DC;\(Dashboard\)](../.gitbook/assets/design-levoyagedanslalune-detail.jpg)
 
-![&#xBF40;&#xBAA8;&#xB3C4;&#xB85C; &#xD0C0;&#xC774;&#xBA38;](../.gitbook/assets/design-levoyagedanslalune-pomodoro.jpg)
+![&#xBF40;&#xBAA8;&#xB3C4;&#xB85C; &#xD0C0;&#xC774;&#xBA38;\(Pomodoro Timer\)](../.gitbook/assets/design-levoyagedanslalune-pomodoro.jpg)
 
 ![&#xCD08;&#xAE30; &#xBAA9;&#xD45C; &#xC124;&#xC815;&#xD654;&#xBA74;](../.gitbook/assets/design-levoyagedanslalune-goal.jpg)
 
