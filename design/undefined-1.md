@@ -1,5 +1,7 @@
 # 화면 설계
 
+
+
 ![&#xBA54;&#xC778;\(Main\)](../.gitbook/assets/design-levoyagedanslalune%20%281%29.png)
 
 ![&#xD301; &#xAC8C;&#xC2DC;&#xD310; &#xC0C1;&#xC138;&#xD654;&#xBA74;\(Tip Board Detail View\)](../.gitbook/assets/design-levoyagedanslalune-tip-board-detail.jpg)
