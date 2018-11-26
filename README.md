@@ -4,7 +4,7 @@
 
 #### [https://levoyagedanslalune.gitbook.io/project/](https://levoyagedanslalune.gitbook.io/project/)
 
-### v1.0.0
+### v1.0.0 (2018.01)
 
 * 프로젝트 개요, 개발 스택, 디자인 등 프로젝트 기본 구성요소 문서화
 * 운영체제
@@ -26,7 +26,7 @@
   * Trello
   * ia Writer\(Markdown\)
 
-### v1.1.0
+### v1.1.0 (2018.11)
 #### 1.0.0에서 변경점
 
 * 타겟 고객
